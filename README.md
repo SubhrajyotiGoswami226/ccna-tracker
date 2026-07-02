@@ -239,9 +239,9 @@ This project is licensed under the MIT License.
 
 Computer Science & Engineering Student
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/SubhrajyotiGoswami226
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://www.linkedin.com/in/subhrajyoti-goswami-6b28a7250/
 
 ---
 
